@@ -1,4 +1,4 @@
-# Papers for Abstractive Summarization
+# Papers for Neural Abstractive Summarization
 Must-read papers for neural abstractive summarization.
 
 
